@@ -1,2 +1,2 @@
 echo "bon appetit!"
-cygstart valtech.jpg
+open valtech.jpg
